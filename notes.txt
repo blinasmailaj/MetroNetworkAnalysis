@@ -1,9 +1,0 @@
-
-Line:
-Blue line - Blue line branch
-
-Station Name:
-mi hel [],(), Capitalized
-
-Distance from Station:
-Mi handle null values
